@@ -49,15 +49,12 @@
 ---
 
 <h3 align="center">🛠️ Languages & Tools</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,mongodb,postgres,pytorch,fastapi,docker,aws,terraform" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,mongodb,postgres,pytorch,fastapi,docker,aws" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,numpy,matplotlib,sklearn,kaggle,huggingface,tensorflow,jupyter,opencv,figma" />
+  <img src="https://skillicons.dev/icons?i=terraform,vscode,git,github,sklearn,tensorflow,opencv,figma" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI_API-412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
@@ -67,6 +64,10 @@
   <img src="https://img.shields.io/badge/Transformers-ffcc00.svg?&style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD339.svg?&style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
