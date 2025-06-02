@@ -4,7 +4,7 @@
 
 <h1 align="center">Areeba Shahzad Shaikh</h1>
 
-<img align="right" alt="Girl Doing Web Development" width="23%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
+<img align="right" alt="Girl Doing Web Development" width="35%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 
 🤝 I’m looking to collaborate on:
 1.  Embedded AI Research
