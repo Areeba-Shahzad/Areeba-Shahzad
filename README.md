@@ -53,12 +53,15 @@
 ---
 
 <h3 align="center">🛠️ Languages & Tools</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,mongodb,postgres,pytorch,fastapi,docker,aws,terraform,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,mongodb,postgres,pytorch,fastapi,docker,aws,terraform" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,matplotlib,sklearn,kaggle,huggingface,tensorflow,jupyter,opencv,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,numpy,matplotlib,sklearn,kaggle,huggingface,tensorflow,jupyter,opencv,figma" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI_API-412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
