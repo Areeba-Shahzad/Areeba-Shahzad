@@ -95,7 +95,7 @@
   <table align="center" width="90%" style="border-spacing: 14px;">
     <tr>
       <td align="center" width="90%" style="border: 1px solid #330066; border-radius: 12px; padding: 12px;">
-        <a href="https://github.com/Areeba-Shahzad/Cloud-Native-Buy-Sell-Marketplace" style="font-weight:bold; font-size: 16px;">Cloud-Native Buy & Sell Marketplace</a><br/>
+        <a href="https://github.com/Areeba-Shahzad/AWS-buy-sell-app" style="font-weight:bold; font-size: 16px;">Cloud-Native Buy & Sell Marketplace</a><br/>
         <span style="font-size: 14px;">Serverless buying/selling platform on AWS, provisioned with Terraform, built with FastAPI & React.</span>
       </td>
     </tr>
