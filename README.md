@@ -27,10 +27,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=9933FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Cloud+Native+Developer;AI+Developer;Full-Stack+Developer" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
 
-<div align="center" style="background-color: #220044; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(138, 43, 226, 0.6); margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=9933FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;AI+Developer;Full-Stack+Developer;Cloud+Native+Developer" alt="typing-banner" style="max-width: 100%; height: auto;" />
-</div>
-
 <p align="center">
   <a href="https://github.com/Areeba-Shahzad">
     <img alt="Areeba's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Areeba-Shahzad&show_icons=true&count_private=true&theme=midnight_purple" width="46.5%"/>
