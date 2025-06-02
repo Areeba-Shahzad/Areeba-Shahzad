@@ -105,7 +105,7 @@
   <table align="center" width="90%" style="border-spacing: 14px;">
     <tr>
       <td align="center" width="90%" style="border: 1px solid #330066; border-radius: 12px; padding: 12px;">
-        <a href="https://github.com/Areeba-Shahzad/MERN-Auction-App" style="font-weight:bold; font-size: 16px;">MERN Auction App</a><br/>
+        <a href="https://github.com/Areeba-Shahzad/auction-app" style="font-weight:bold; font-size: 16px;">MERN Auction App</a><br/>
         <span style="font-size: 14px;">Full-stack MERN application simulating an auction platform with real-time bidding via Socket.IO.</span>
       </td>
     </tr>
